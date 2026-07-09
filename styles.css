@@ -1,0 +1,38 @@
+section{
+    padding: 20px 109px;
+}
+
+ .logo{
+    display: flex;
+    justify-content: center;
+ }
+ .navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+ }
+ul{
+    display: flex;
+    flex-direction:row;
+    gap: 40px;
+    justify-content: center;
+   
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #575757;
+}
+.nav-btn .btn{
+   padding: 10px 20px;
+ 
+}
+.btn{
+  background-color: #1D4ED8;
+   color:#FFFFFF ;
+   border: none;
+   border-radius: 10px;
+}
