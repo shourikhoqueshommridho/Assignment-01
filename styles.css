@@ -326,7 +326,8 @@ color: #888888;
    48-Hour AI Hackathon Challenge
 ========================================== */
 .hackathon-bg{
-   
+    background: #FFFFFF;
+border: 1px solid #E5E7EB;
 }
 
 .hackathon{
