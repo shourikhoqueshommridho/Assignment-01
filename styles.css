@@ -8,6 +8,9 @@ section {
   padding: 20px 109px;
 }
 /* navbar start */
+.header-bg{
+  background: #EFF6FF;
+}
 .logo {
   display: flex;
   justify-content: center;
@@ -78,7 +81,10 @@ a {
 /* Banner end  */
 
 /* meet speakers start */
+.meet-speaker-bg{
+ background: #EFF6FF;
 
+}
 .meet-speaker-text {
   text-align: center;
   padding: 80px 0;
@@ -137,6 +143,10 @@ a {
 }
 /* meet speakers end */
 /* Secure Your Spot start */
+.Secure-Spot-bg{
+   background: #FFFFFF;
+border: 1px solid #E5E7EB;
+}
 .Secure-Spot{
   padding: 20px 250px;
 }
@@ -315,11 +325,13 @@ color: #888888;
 /* ==========================================
    48-Hour AI Hackathon Challenge
 ========================================== */
-
+.hackathon-bg{
+   
+}
 
 .hackathon{
     padding: 80px 109px; /* customized by me */
-    background:#ffffff;
+    
 }
 
 .hackathon-container{
@@ -839,3 +851,26 @@ padding:20px;
 }
 
 }
+/* footer start */
+.footer-bg{
+ background: #EFF6FF;
+}
+.footer-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 0;
+
+}
+.icons{
+  display: flex;
+  gap: 10px;
+}
+.icon{
+  width: 50px;
+  height: 50px;
+}
+.copy-right-text {
+  text-align: center;
+}   
+

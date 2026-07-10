@@ -11,13 +11,13 @@ There is one empty section between the Pricing section and the Footer.
 Your task is to design a brand-new section that naturally fits into the existing landing page.
 
 
-<!-- SECTION TITLE -->
+<-------- SECTION TITLE----->
 
 
 48-Hour AI Hackathon Challenge
 
 
-<!-- DESIGN GOAL -->
+<----- DESIGN GOAL ----->
 
 The section should look like it was designed by the same person who created the rest of the landing page.
 
@@ -26,7 +26,7 @@ Use a clean, modern, premium, developer-focused style inspired by Stripe, Linear
 Avoid creating a section that looks disconnected from the rest of the website.
 
 
-<!-- COLOR STYLE -->
+<------- COLOR STYLE -------->
 
 Primary Color:
 #2563EB
@@ -56,7 +56,7 @@ Spacing:
 Large and clean
 
 
-<!-- LAYOUT -->
+<----- LAYOUT ---->
 
 
 Create a responsive two-column layout.
@@ -104,7 +104,7 @@ Button Text
 Join the Challenge
 
 
-<!-- RIGHT SIDE -->
+<------- RIGHT SIDE ------->
 
 
 Create one premium Hackathon Information Card.
@@ -150,7 +150,7 @@ Add a small outlined button
 Find Teammates
 
 
-<!-- HOVER EFFECTS -->
+<----- HOVER EFFECTS -------->
 
 
 Cards lift slightly on hover.
@@ -162,7 +162,7 @@ Button changes to a darker blue.
 Information boxes slightly change background color.
 
 
-<!-- RESPONSIVE -->
+<------ RESPONSIVE ------>
 
 
 Desktop
@@ -180,7 +180,7 @@ Everything becomes one column.
 Feature cards become two columns on tablet and one column on mobile.
 
 
-<!-- TECHNICAL REQUIREMENTS -->
+<------ TECHNICAL REQUIREMENTS -------->
 
 Use ONLY
 
