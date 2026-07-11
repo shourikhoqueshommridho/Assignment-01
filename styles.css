@@ -61,12 +61,16 @@ a {
   display: grid;
   text-align: center;
   align-items: center;
+  margin-top: 50px;
 }
 .banner-text h1 {
   color: #ffffff;
+ 
+  margin-top: 80px;
 }
 .banner-bg .banner-text p {
   color: #ffffff;
+  
 }
 .banner-btn .btn {
   width: 30%;
@@ -76,6 +80,7 @@ a {
   justify-content: center;
   align-items: center;
   margin: 0 auto;
+  margin-bottom: 120px;
  }
 
 /* Banner end  */
@@ -83,11 +88,12 @@ a {
 /* meet speakers start */
 .meet-speaker-bg{
  background: #EFF6FF;
+ padding:30px 0 ;
 
 }
 .meet-speaker-text {
   text-align: center;
-  padding: 80px 0;
+  
   font-size: 30px;
 }
 
